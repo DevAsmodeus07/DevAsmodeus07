@@ -5,7 +5,7 @@
 I'm a passionate **Blockchain Developer** specializing in **Substrate** (Rust) and **EVM-based chains.**  
 I love building decentralized systems, smart contracts, and backend infrastructures that power scalable blockchain ecosystems.
 
-My focus is on **custom blockchain development, DAO systems, and backend architecture**  though, I also explore **multi-chain solutions** across Web3.
+My focus is on **custom blockchain development, smart contract development, DAO systems, and backend architecture**  though, I also explore **multi-chain solutions** across Web3.
 
 ---
 
@@ -41,7 +41,7 @@ My focus is on **custom blockchain development, DAO systems, and backend archite
 ---
 
 ## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://X.com/KeneBCDev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeneBCDev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevAsmodeus07)
 
 ---
@@ -54,7 +54,7 @@ My focus is on **custom blockchain development, DAO systems, and backend archite
 - 🔗 Building **ProofDocket** and other decentralized projects  
 - 🛠️ Contributor to **EVM smart contracts & DAO development**  
 - 🎯 Passionate about **scalable backend systems** for blockchain ecosystems
-- 📚 Also a Chemical Engineering student at AE-FUNAI 
+- 📚 Also a Chemical Engineering student 
 
 ---
 
