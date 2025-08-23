@@ -36,7 +36,8 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 ---
 
 ## 🌍 Current Projects
-- 🛡️ Backend development of **Freelance DAO** – decentralized freelance marketplace.  
+- 🛡️ Development of ProofDocket.
+- 🛡️ Leader of CNC Movie Play App Dev Team.
 
 ---
 
