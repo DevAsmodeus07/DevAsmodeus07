@@ -36,6 +36,7 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 ---
 
 ## 🌍 Current Projects
+- 🛡️ Hedera Smart Contract Developer for FreeLance DAO.
 - 🛡️ Development of ProofDocket.
 - 🛡️ Leader of CNC Movie Play App Dev Team.
 
