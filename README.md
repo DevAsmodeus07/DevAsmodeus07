@@ -1,11 +1,11 @@
 # Hi, I'm Kenechukwu
 
 ## Blockchain Developer
+I’m a **Blockchain Developer** specializing in both **infrastructure development** and **smart contract development.** I work across the blockchain stack—from designing consensus mechanisms and custom protocols to building secure and efficient smart contracts for decentralized applications.
 
-I'm a passionate **Blockchain Developer** specializing in **Substrate** (Rust) and **EVM-based chains.**  
-I love building decentralized systems, smart contracts, and backend infrastructures that power scalable blockchain ecosystems.
+My core programming languages are *Rust*, *Solidity*, *Go*, *JavaScript*, and *C++*, which I use to deliver scalable, secure, and innovative blockchain solutions. With strong problem-solving skills and a focus on performance and reliability, I thrive in building technologies that power the next generation of decentralized systems.
 
-My focus is on **custom blockchain development, smart contract development, DAO systems, and backend architecture**  though, I also explore **multi-chain solutions** across Web3.
+I’m passionate about leveraging blockchain technology to deliver real-world impact and open to collaborations, freelance opportunities, and global partnerships within the Web3 ecosystem.
 
 ---
 
@@ -14,8 +14,9 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 ### 🖥️ Programming Languages
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=black)
 
 ### ⚙️ Blockchain & Frameworks
 ![Substrate](https://img.shields.io/badge/Substrate-282C34?style=for-the-badge&logo=parity-substrate&logoColor=blue)
@@ -38,7 +39,6 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 ## 🌍 Current Projects
 - 🛡️ Hedera Smart Contract Developer for FreeLance DAO.
 - 🛡️ Development of ProofDocket.
-- 🛡️ Leader of CNC Movie Play App Dev Team.
 
 ---
 
@@ -48,11 +48,10 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 
 ---
 
-✨ *“Code is my weapon, Blockchain is my battlefield, and Integrity is my banner.”*
 
 ## 🤖 About Me  
 
-- 🌱 Currently deepening my expertise in **Substrate & Rust**  
+- 🌱 Currently deepening my expertise in **Infrastructure Development**  
 - 🔗 Building **ProofDocket** and other decentralized projects  
 - 🛠️ Contributor to **EVM smart contracts & DAO development**  
 - 🎯 Passionate about **scalable backend systems** for blockchain ecosystems
@@ -73,4 +72,9 @@ My focus is on **custom blockchain development, smart contract development, DAO 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DevAsmodeus07&theme=tokyonight&border_radius=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsmodeus07&layout=compact&theme=tokyonight)
+
+
+
+
+
+
