@@ -1,7 +1,7 @@
 # Hi, I'm Kenechukwu
 
 ## Blockchain Developer
-I’m a **Blockchain Developer** specializing in both **infrastructure development** and **smart contract development.** I work across the blockchain stack—from designing consensus mechanisms and custom protocols to building secure and efficient smart contracts for decentralized applications.
+I’m a **Blockchain Developer** specializing in both **infrastructure development** and **smart contract development.** I work across the blockchain stack; from designing consensus mechanisms and custom protocols to building secure and efficient smart contracts for decentralized solutions.
 
 My core programming languages are *Rust*, *Solidity*, *Go*, *JavaScript*, and *C++*, which I use to deliver scalable, secure, and innovative blockchain solutions. With strong problem-solving skills and a focus on performance and reliability, I thrive in building technologies that power the next generation of decentralized systems.
 
