@@ -3,7 +3,7 @@
 ## Blockchain Developer
 I’m a **Blockchain Developer** specializing in both **infrastructure development** and **smart contract development.** I work across the blockchain stack; from designing consensus mechanisms and custom protocols to building secure and efficient smart contracts for decentralized solutions.
 
-My core programming languages are *Rust*, *Solidity*, *Go*, *JavaScript*, and *C++*, which I use to deliver scalable, secure, and innovative blockchain solutions. With strong problem-solving skills and a focus on performance and reliability, I thrive in building technologies that power the next generation of decentralized systems.
+My core programming languages are *Rust*, *Solidity*, *Vyper*, *JavaScript*, *C++*, *Move* and *Python* which I use to deliver scalable, secure, and innovative blockchain solutions. With strong problem-solving skills and a focus on performance and reliability, I thrive in building technologies that power the next generation of decentralized systems.
 
 I’m passionate about leveraging blockchain technology to deliver real-world impact and open to collaborations, freelance opportunities, and global partnerships within the Web3 ecosystem.
 
@@ -12,11 +12,13 @@ I’m passionate about leveraging blockchain technology to deliver real-world im
 ## 🔧 Tech Stack & Tools
 
 ### 🖥️ Programming Languages
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Vyper](https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=python&logoColor=white)  
+![Move](https://img.shields.io/badge/Move-02569B?style=for-the-badge&logo=move&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Blockchain & Frameworks
 ![Substrate](https://img.shields.io/badge/Substrate-282C34?style=for-the-badge&logo=parity-substrate&logoColor=blue)
