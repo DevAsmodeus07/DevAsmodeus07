@@ -40,7 +40,7 @@ I’m passionate about leveraging blockchain technology to deliver real-world im
 
 ## 🌍 Current Projects
 - 🛡️ Hedera Smart Contract Developer for FreeLance DAO.
-- 🛡️ Development of ProofDocket.
+- 🛡️ Development of Codeon.
 
 ---
 
@@ -73,10 +73,3 @@ I’m passionate about leveraging blockchain technology to deliver real-world im
 ![Kenechukwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAsmodeus07&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DevAsmodeus07&theme=tokyonight&border_radius=5)
-
-
-
-
-
-
-
