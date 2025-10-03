@@ -44,17 +44,10 @@ I’m passionate about leveraging blockchain technology to deliver real-world im
 
 ---
 
-## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeneBCDev)
-[![Gmail](https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white)](johnkenechukwu24@gmail.com)
-
----
-
-
 ## 🤖 About Me  
 
 - 🌱 Currently deepening my expertise in **Infrastructure Development**  
-- 🔗 Building **ProofDocket** and other decentralized projects  
+- 🔗 Building **Codeon** and other decentralized projects  
 - 🛠️ Contributor to **EVM smart contracts & DAO development**  
 - 🎯 Passionate about **scalable backend systems** for blockchain ecosystems
 - 📚 Also a Chemical Engineering student 
